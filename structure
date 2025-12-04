@@ -1,0 +1,11 @@
+my-font-editor.zip
+├── package.json
+├── tsconfig.json
+├── public/
+│   ├── index.html
+│   └── fonts/
+│       └── OpenSans-Regular.ttf
+├── src/
+│   ├── App.tsx
+│   ├── index.tsx
+│   └── index.css
